@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Number Guessing Game</string>
+    <string name="range_0_100">Range : 0 - 100</string>
+</resources>
